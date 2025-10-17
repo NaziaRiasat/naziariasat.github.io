@@ -13,7 +13,7 @@ title: Nazia Riasat
       <span class="badge">Machine Learning</span>
       <span class="badge">Bioinformatics</span>
     </div>
-    <p>I am a Ph.D. candidate in Statistics at North Carolina State University, where I study how mathematical models can capture the complexity of biological systems. My research combines statistical rigor with biological insight to build interpretable and reproducible frameworks for genomic data analysis. I am passionate about advancing methods that strengthen transparency, interpretability, and collaboration across the biological and data-science communities.</p>
+    <p>I am a Ph.D. candidate in Statistics at North Dakota State University, where I study how mathematical models can capture the complexity of biological systems. My research combines statistical rigor with biological insight to build interpretable and reproducible frameworks for genomic data analysis. I am passionate about advancing methods that strengthen transparency, interpretability, and collaboration across the biological and data-science communities.</p>
     <p>
       <a class="cta" href="/research">Explore Research</a>
       <a class="cta secondary" href="/cv">Download CV</a>
