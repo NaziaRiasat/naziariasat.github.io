@@ -8,7 +8,7 @@ This is a lightweight academic website for GitHub Pages.
 3. In the repo, go to **Settings → Pages → Build and deployment** and select:
    - Source: `Deploy from a branch`
    - Branch: `main` and folder `/ (root)`
-4. Wait ~1–2 minutes. Your site will be live at https://ellispoling.github.io
+4. Wait ~1–2 minutes. Your site will be live at https://naziariasat.github.io
 
 ## Update Content
 - Edit the page `.md` files (e.g., `index.md`, `research.md`) directly in GitHub.
