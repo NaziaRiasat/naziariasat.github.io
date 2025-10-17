@@ -1,0 +1,33 @@
+title: Ellis Poling
+email: Ellis.Poling@ncsu.edu
+description: >-
+  Ph.D. Candidate in Statistics | Computational & Statistical Genomics · Simulation Modeling · Machine Learning · Bioinformatics
+baseurl: ""
+url: ""
+
+theme: jekyll-theme-minimal
+
+nav:
+  - name: Home
+    link: /
+  - name: Research
+    link: /research
+  - name: Publications
+    link: /publications
+  - name: Teaching
+    link: /teaching
+  - name: CV
+    link: /cv
+  - name: News
+    link: /news
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
+
+markdown: kramdown
+kramdown:
+  input: GFM
