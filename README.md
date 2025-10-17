@@ -1,9 +1,9 @@
-# Ellis Poling — Academic Website (Jekyll)
+# Nazia Riasat — Academic Website (Jekyll)
 
 This is a lightweight academic website for GitHub Pages.
 
 ## Quick Start
-1. Create a GitHub repo named `ellispoling.github.io`.
+1. Create a GitHub repo named `naziariasat.github.io`.
 2. Upload all files in this folder to the repo root.
 3. In the repo, go to **Settings → Pages → Build and deployment** and select:
    - Source: `Deploy from a branch`
