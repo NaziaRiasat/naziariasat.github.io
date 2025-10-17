@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Ellis Poling
+title: Nazia Riasat
 ---
 
 <div class="profile">
-  <img src="/assets/images/profile.jpg" alt="Ellis Poling headshot placeholder">
+  <img src="/assets/images/profile.jpg" alt="Nazia Riasat headshot placeholder">
   <div>
-    <p><strong>Ph.D. Candidate in Statistics</strong><br>Department of Statistics, North Carolina State University</p>
+    <p><strong>Ph.D. Candidate in Statistics</strong><br>Department of Statistics, North Dakota State University</p>
     <div class="badges">
       <span class="badge">Computational & Statistical Genomics</span>
       <span class="badge">Simulation Modeling</span>
@@ -17,7 +17,7 @@ title: Ellis Poling
     <p>
       <a class="cta" href="/research">Explore Research</a>
       <a class="cta secondary" href="/cv">Download CV</a>
-      <a class="cta secondary" href="mailto:Ellis.Poling@ncsu.edu">📩 Get in Touch</a>
+      <a class="cta secondary" href="mailto:nazia.riasat@ndsu.edu">📩 Get in Touch</a>
     </p>
   </div>
 </div>
