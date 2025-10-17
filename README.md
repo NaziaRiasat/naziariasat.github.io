@@ -1,4 +1,4 @@
-# Nazia Riasat — Academic Website (Jekyll)
+# Nazia Riasat — PhD Candidate
 
 This is a lightweight academic website for GitHub Pages.
 
